@@ -13,7 +13,7 @@ createServer((req, res) => {
       'x-test,Content-Type,Accept,Access-Control-Allow-Headers',
   };
   const result = {
-    message: 'yuriiitymchenko',
+    message: 'djey36',
     'x-result': req.headers['x-test'],
     'x-body': '',
   };
