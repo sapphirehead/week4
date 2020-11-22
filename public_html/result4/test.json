@@ -1,0 +1,13 @@
+{
+  "task": [
+    {
+      "curl": "http://localhost:3000/result4/ -d 'message' -H 'x-test: xxxxxxxx'"
+    },
+
+    {
+      "message": "djey36",
+      "x-result": "eee",
+      "x-body": "rrr"
+    }
+  ]
+}
